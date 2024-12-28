@@ -1,0 +1,12 @@
+marks=[]
+sachai["yashit"]="pagal"
+print(sachai["yashit"])
+sachai={
+        "yashit":"mad",
+        "Hriday":"Genius",
+        "marks":[7,6,9]
+        }
+sachai1={"i":"pagal"}
+sachai.update(sachai1)
+sachai[0]="mummy"
+print(sachai)

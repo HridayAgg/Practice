@@ -1,0 +1,273 @@
+[13:15:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:15:45] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[13:15:47] [Worker-Main-4/INFO]: Loaded 7 recipes
+[13:15:51] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[13:15:51] [Server thread/INFO]: Loading properties
+[13:15:51] [Server thread/INFO]: This server is running CraftBukkit version 3042-Spigot-a25e8ed-3512408 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[13:15:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:15:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:15:53] [Server thread/INFO]: Debug logging is disabled
+[13:15:54] [Server thread/INFO]: Default game type: SURVIVAL
+[13:15:54] [Server thread/INFO]: Generating keypair
+[13:15:54] [Server thread/INFO]: Starting Minecraft server on *:11494
+[13:15:55] [Server thread/INFO]: Using epoll channel type
+[13:15:57] [Server thread/WARN]: PYTHON Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:16:05] [Server thread/WARN]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
+[13:16:05] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
+[13:16:05] [Server thread/INFO]: [ShulkerPacks] Loading ShulkerPacks v1.5.8
+[13:16:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:16:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:16:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:16:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:16:05] [Server thread/INFO]: Preparing level "world"
+[13:16:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:16:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:16:05] [Server thread/INFO]: Mob Spawn Range: 8
+[13:16:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:16:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:16:05] [Server thread/INFO]: Custom Map Seeds: Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:16:05] [Server thread/INFO]: Max TNT Explosions: 100
+[13:16:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:16:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:16:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:16:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:16:05] [Server thread/INFO]: View Distance: 5
+[13:16:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:16:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:16:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:16:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:16:05] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:16:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:16:05] [Server thread/INFO]: Mob Spawn Range: 8
+[13:16:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:16:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:16:05] [Server thread/INFO]: Custom Map Seeds: Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:16:05] [Server thread/INFO]: Max TNT Explosions: 100
+[13:16:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:16:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:16:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:16:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:16:05] [Server thread/INFO]: View Distance: 5
+[13:16:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:16:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:16:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:16:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:16:05] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:16:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:16:05] [Server thread/INFO]: Mob Spawn Range: 8
+[13:16:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:16:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:16:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:16:05] [Server thread/INFO]: Custom Map Seeds: Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:16:05] [Server thread/INFO]: Max TNT Explosions: 100
+[13:16:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:16:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:16:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:16:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:16:05] [Server thread/INFO]: View Distance: 5
+[13:16:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:16:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:16:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:16:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:16:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:16:10] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:11] [Server thread/INFO]: Preparing spawn area: 83%
+[13:16:11] [Server thread/INFO]: Time elapsed: 5559 ms
+[13:16:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:16:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:15] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:16:16] [Server thread/INFO]: Time elapsed: 4751 ms
+[13:16:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:16:17] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:17] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:17] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:17] [Server thread/INFO]: Preparing spawn area: 31%
+[13:16:18] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[13:16:18] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[13:16:19] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[13:16:19] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[13:16:20] [Worker-Main-5/INFO]: Preparing spawn area: 87%
+[13:16:20] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[13:16:21] [Server thread/INFO]: Time elapsed: 4882 ms
+[13:16:21] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3
+[13:16:21] [Server thread/INFO]: [ShulkerPacks] Enabling ShulkerPacks v1.5.8
+[13:16:21] [Server thread/INFO]: §f§l[§9ShulkerPacks§f§l] §aShulkerPacks has been enabled!
+[13:16:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:16:21] [Server thread/INFO]: Done (16.426s)! For help, type "help"
+[13:16:21] [Server thread/INFO]: Starting GS4 status listener
+[13:16:21] [Server thread/INFO]: Thread Query Listener started
+[13:16:21] [Query Listener #1/INFO]: Query running on **.**.**.**:9898
+[13:17:18] [User Authenticator #1/INFO]: UUID of player Hriday8 is efdabf69-9a51-3980-bfb1-ab0748895aa1
+[13:17:19] [Server thread/INFO]: Hriday8[/**.**.**.**:64764] logged in with entity id 276 at ([world]733.2816029577514, 66.0, 298.6621512476423)
+[13:22:36] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative
+[13:22:36] [Server thread/INFO]: [Hriday8: Set own game mode to Creative Mode]
+[13:22:59] [User Authenticator #2/INFO]: UUID of player yashit is c7401c72-2995-3545-adac-01cf8db6b987
+[13:22:59] [Server thread/INFO]: yashit[/**.**.**.**:61987] logged in with entity id 872 at ([world]711.1722857880764, 54.0, 324.30000001192093)
+[13:25:28] [Server thread/INFO]: Hriday8 issued server command: /tp Hriday8 yashit
+[13:25:28] [Server thread/INFO]: [Hriday8: Teleported Hriday8 to yashit]
+[13:26:18] [Server thread/INFO]: Hriday8 issued server command: /clear yashit
+[13:26:32] [Server thread/INFO]: Hriday8 issued server command: /clear yashit
+[13:26:32] [Server thread/INFO]: [Hriday8: Removed 6 items from player yashit]
+[13:26:37] [Server thread/INFO]: Hriday8 issued server command: /tp Hriday8 yashit
+[13:26:37] [Server thread/INFO]: [Hriday8: Teleported Hriday8 to yashit]
+[13:26:51] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative yashit
+[13:26:51] [Server thread/INFO]: [Hriday8: Set yashit's game mode to Creative Mode]
+[13:29:48] [Server thread/INFO]: Hriday8 issued server command: /gamemode survival yashit
+[13:29:48] [Server thread/INFO]: [Hriday8: Set yashit's game mode to Survival Mode]
+[13:29:59] [Server thread/INFO]: yashit fell from a high place
+[13:30:23] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative yashit
+[13:30:23] [Server thread/INFO]: [Hriday8: Set yashit's game mode to Creative Mode]
+[13:32:28] [Server thread/INFO]: Hriday8 issued server command: /effect give Hriday8 minecraft:strength 1000000 100
+[13:32:28] [Server thread/INFO]: [Hriday8: Applied effect Strength to Hriday8]
+[13:35:25] [Server thread/INFO]: Hriday8 issued server command: /time set day
+[13:35:25] [Server thread/INFO]: [Hriday8: Set the time to 1000]
+[13:35:31] [Server thread/INFO]: Hriday8 issued server command: /gamerule doDaylightCycle false
+[13:35:31] [Server thread/INFO]: [Hriday8: Gamerule doDaylightCycle is now set to: false]
+[13:45:11] [Server thread/INFO]: Hriday8 issued server command: /give @a minecraft:netherite_pickaxe{Unbreakable:1,Display:[{name:"Dhassu",color:"red"}],Enchantments:[{id:"efficiency",lvl:1000}]}}
+[13:45:15] [Server thread/INFO]: Hriday8 issued server command: /give @a minecraft:netherite_pickaxe{Unbreakable:1,Display:[{name:"Dhassu",color:"red"}],Enchantments:[{id:"efficiency",lvl:1000}]}
+[13:45:16] [Server thread/INFO]: [Hriday8: Gave 1 [Netherite Pickaxe] to 2]
+[13:45:26] [Server thread/INFO]: Hriday8 issued server command: /give @a minecraft:netherite_pickaxe{Unbreakable:1,Display:[{Name:"Dhassu",color:"red"}],Enchantments:[{id:"efficiency",lvl:1000}]}
+[13:45:26] [Server thread/INFO]: [Hriday8: Gave 1 [Netherite Pickaxe] to 2]
+[13:45:35] [Server thread/INFO]: Hriday8 issued server command: /give @a minecraft:netherite_pickaxe{Unbreakable:1,display:[{Name:"Dhassu",color:"red"}],Enchantments:[{id:"efficiency",lvl:1000}]}
+[13:45:35] [Server thread/INFO]: [Hriday8: Gave 1 [Netherite Pickaxe] to 2]
+[13:46:02] [Server thread/INFO]: Hriday8 issued server command: /gamemode survival yashit
+[13:46:02] [Server thread/INFO]: [Hriday8: Set yashit's game mode to Survival Mode]
+[13:46:10] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative yashit
+[13:46:10] [Server thread/INFO]: [Hriday8: Set yashit's game mode to Creative Mode]
+[13:46:23] [Server thread/INFO]: Saving the game (this may take a moment!)
+[13:46:23] [Server thread/INFO]: Saved the game
+[13:47:33] [Server thread/INFO]: Hriday8 issued server command: /gamemode spectator
+[13:47:33] [Server thread/INFO]: [Hriday8: Set own game mode to Spectator Mode]
+[13:47:41] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative
+[13:47:41] [Server thread/INFO]: [Hriday8: Set own game mode to Creative Mode]
+[13:48:05] [Server thread/INFO]: Hriday8 issued server command: /gamemode spectator
+[13:48:05] [Server thread/INFO]: [Hriday8: Set own game mode to Spectator Mode]
+[13:48:11] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative
+[13:48:11] [Server thread/INFO]: [Hriday8: Set own game mode to Creative Mode]
+[13:53:06] [Server thread/INFO]: Hriday8 issued server command: /tp yashit Hriday8
+[13:53:06] [Server thread/INFO]: [Hriday8: Teleported yashit to Hriday8]
+[13:53:21] [Server thread/INFO]: Hriday8 issued server command: /give @a minecraft:sponge
+[13:53:21] [Server thread/INFO]: [Hriday8: Gave 1 [Sponge] to 2]
+[14:01:48] [Server thread/INFO]: Hriday8 issued server command: /effect clear @a
+[14:01:48] [Server thread/INFO]: [Hriday8: Removed every effect from 2 targets]
+[14:07:47] [Server thread/INFO]: Hriday8 issued server command: /gamemode spectator
+[14:07:47] [Server thread/INFO]: [Hriday8: Set own game mode to Spectator Mode]
+[14:07:56] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative
+[14:07:56] [Server thread/INFO]: [Hriday8: Set own game mode to Creative Mode]
+[14:10:13] [Server thread/INFO]: Hriday8 issued server command: /gamemode spectator
+[14:10:13] [Server thread/INFO]: [Hriday8: Set own game mode to Spectator Mode]
+[14:10:20] [Server thread/INFO]: Hriday8 issued server command: /gamemode creative
+[14:10:20] [Server thread/INFO]: [Hriday8: Set own game mode to Creative Mode]
+[14:11:18] [Server thread/INFO]: Hriday8 issued server command: /tp yashit Hriday8
+[14:11:18] [Server thread/INFO]: [Hriday8: Teleported yashit to Hriday8]
+[14:12:10] [Server thread/ERROR]: Block at 747, 66, 244 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@26a38c61. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:12:10] [Server thread/ERROR]: Block at 748, 66, 244 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@a49600e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:12:57] [Server thread/ERROR]: Block at 747, 66, 245 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@54ea1952. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:12:57] [Server thread/ERROR]: Block at 747, 66, 244 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@3f74c075. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:12:58] [Server thread/ERROR]: Block at 748, 66, 245 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@22aec9fd. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:12:58] [Server thread/ERROR]: Block at 748, 66, 244 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@4889ee78. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:13:00] [Server thread/ERROR]: Block at 747, 66, 245 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@1a87a2cc. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:13:01] [Server thread/ERROR]: Block at 748, 66, 245 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@21af57fa. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:13:01] [Server thread/ERROR]: Block at 747, 66, 244 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@751a8313. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:13:01] [Server thread/ERROR]: Block at 748, 66, 244 is Block{minecraft:water} but has net.minecraft.server.v1_16_R3.TileEntityCampfire@726749e6. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:16:23] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:16:23] [Server thread/INFO]: Saved the game
+[14:17:22] [Server thread/INFO]: Hriday8 issued server command: /effect clear @a
+[14:17:22] [Server thread/INFO]: [Hriday8: Removed every effect from 2 targets]
+[14:17:45] [Server thread/INFO]: Hriday8 issued server command: /effect clear @a
+[14:17:45] [Server thread/INFO]: [Hriday8: Removed every effect from 2 targets]
+[14:17:50] [Server thread/INFO]: Hriday8 issued server command: /effect clear @a
+[14:17:50] [Server thread/INFO]: [Hriday8: Removed every effect from 2 targets]
+[14:18:07] [Server thread/python]: Hriday8 issued server command: /effect clear @a
+[14:18:07] [Server thread/INFO]: [Hriday8: python every effect from 2 targets]
+[14:18:54] [Server thread/INFO]: Hriday8 issued server command: /effect clear @a
+[14:18:54] [Server thread/INFO]: [Hriday8: Removed every effect from 2 targets]
+[14:22:54] [Server thread/INFO]: Hriday8 issued server command: /tp Hriday8 yashit
+[14:22:54] [Server thread/INFO]: [Hriday8: Teleported Hriday8 to yashit]
+[14:23:15] [Server thread/INFO]: Hriday8 issued server command: /effect clear @a
+[14:23:15] [Server thread/INFO]: [Hriday8: Removed every effect from 2 targets]
+[14:23:22] [Server thread/INFO]: Hriday8 issued server command: /clear yashit
+[14:23:22] [Server thread/INFO]: [Hriday8: Removed 289 items from player yashit]
+[14:23:29] [Server thread/INFO]: Hriday8 lost connection: Disconnected
+[14:23:29] [Server thread/INFO]: Hriday8 left the game
+[14:23:42] [Server thread/INFO]: Stopping the server
+[14:23:42] [Server thread/INFO]: Stopping server
+[14:23:42] [Server thread/INFO]: [ShulkerPacks] Disabling ShulkerPacks v1.5.8
+[14:23:42] [Server thread/INFO]: §f§l[§9ShulkerPacks§f§l] §cShulkerPacks has been disabled!
+[14:23:42] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[14:23:42] [Server thread/INFO]: Saving players
+[14:23:42] [Server thread/INFO]: yashit lost connection: Server closed
+[14:23:42] [Server thread/INFO]: yashit left the game
+[14:23:42] [Server thread/INFO]: Saving worlds
+[14:23:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:23:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:23:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:23:44] [Server thread/INFO]: Thread Query Listener stopped
