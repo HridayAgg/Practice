@@ -1,0 +1,15 @@
+.box {
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+.box2 {
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+.box3{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 10px;
+
+}

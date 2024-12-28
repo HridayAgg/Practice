@@ -1,0 +1,121 @@
+.box{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.circle{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+.service{
+    border-color: black;
+    border-radius: 0px;
+    border-style:ridge;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: block;
+    margin-right: 0px;
+    width: 200px;
+}
+.yt-music-head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 23px;
+    line-height: 1px;
+}
+.yt-music-info{
+    color: rgb(165, 165, 165);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yt{
+    background-color: rgb(37, 37, 37);
+    width: 340px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 1px;
+    padding-left: 13px;
+}
+.profilepic{
+    width: 200px;
+    height: 150px;
+}
+.fb-friend{
+    background-color: rgb(0, 123, 255);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+        border: none;
+        margin-left: 8px;
+    
+}
+.fb{
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 70px;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+    width: 200px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    
+}
+.fb-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.fb-name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
+.fb-mutual-friends{
+    color: rgb(67, 67, 67);
+    font-family: arial;
+    font-size: 10px;
+    margin-top: 0px;
+    padding-left: 10px;
+}
+
+.small-pic{
+    width: 20px;
+    display: inline-block;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 0px;
+    background-blend-mode: multiply;
+    vertical-align: middle;
+
+}
+.fb-mutual-friends{
+    display: inline-block;
+    margin-top: 13px;
+    margin-left: 0px;
+    vertical-align: middle;
+    font-size:14px;
+    line-height: 1px;
+
+    padding-left: 0px;
+
+}.fb-friend{
+    display: block;
+    width: 95px;
+    height: 30px;
+    margin-top: 3px;
+}
+
+.pic1{
+    display: inline-block;
+}

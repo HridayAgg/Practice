@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div style="display: flex; flex-direction: row">
+      <div style="background-color: lightblue; width: 200px">h</div>
+      <div style="background-color: lightpink; width: 75px">h</div>
+    </div>
+    <div style="display: flex; flex-direction: row">
+      <div style="background-color: lightblue; width: 50px">item1</div>
+      <div style="background-color: lightpink; flex: 1">item2</div>
+      <div style="background-color: lightblue; width: 75px">item3</div>
+    </div>
+
+    <div
+      style="display: flex; flex-direction: row; justify-content: space-between"
+    >
+      <div style="background-color: lightblue">item1</div>
+      <div style="background-color: lightpink">item2</div>
+      <div style="background-color: lightblue">item3</div>
+      <div style="background-color: lightpink">item4</div>
+    </div>
+    <div
+      style="
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 20px;
+        border: black;
+        border-style: solid;
+        height: 50px;
+        align-items: center;
+      "
+    >
+      <div style="background-color: lightblue">item1</div>
+      <div style="background-color: lightpink">item2</div>
+    </div>
+    <div
+      style="
+        line-height: 25px;
+        border: solid;
+        margin-top: 29px;
+        margin-right: 70px;
+        border-radius: 6px;
+        padding-left: 10px;
+        border-color: grey;
+      "
+    >
+      <div
+        class="flexbox"
+        style="
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          margin-right: 10px;
+        "
+      >
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 20px">
+          Home
+        </div>
+        <div
+          style="font-family: Arial, Helvetica, sans-serif"
+          class="notification"
+        >
+          14
+        </div>
+      </div>
+      <div class="flexbox">
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 20px">
+          Notifications
+        </div>
+        <div
+          style="font-family: Arial, Helvetica, sans-serif"
+          class="notification"
+        >
+          3
+        </div>
+      </div>
+      <div class="flexbox">
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 20px">
+          Messages
+        </div>
+        <div
+          style="font-family: Arial, Helvetica, sans-serif"
+          class="notification"
+        >
+          5
+        </div>
+      </div>
+    </div>
+    <div style=""></div>
+
+    <style>
+      .flexbox {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-right: 10px;
+      }
+
+      .notification {
+        background-color: rgb(0, 119, 255);
+        border-radius: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+
+      * {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .fb {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .fb-container {
+        display: flex;
+        flex-direction: column;
+
+        margin-top: 10px;
+      }
+
+      .fb-pic {
+        border-radius: 100px;
+        object-fit: contain;
+        width: 30px;
+        margin-right: 10px;
+      }
+
+      .fb-info {
+        display: flex;
+        flex-direction: column;
+      }
+    </style>
+    <div class="fb">
+      <div class="fb-container">
+        <div class="fb-info">
+          <div class="fb-name">oliver</div>
+          <img src="channel-pictures/channel-1.jpeg" class="fb-pic" />
+          <div style="color: grey">the cat</div>
+          <div style="color: grey; font-size: small">Popular</div>
+        </div>
+      </div>
+
+      <div class="fb-container">
+        <img src="channel-pictures/channel-1.jpeg" class="fb-pic" />
+        <div class="fb-info">
+          <div class="fb-name">Mimi</div>
+        </div>
+      </div>
+
+      <div class="fb-container">
+        <img src="channel-pictures/channel-1.jpeg" class="fb-pic" />
+        <div class="fb-info">
+          <div class="fb-name">Rex</div>
+        </div>
+      </div>
+
+      <div
+        class="topbar"
+        style="
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          margin-left: 20px;
+          margin-top: 120px;
+          background-color: #7354ad;
+          padding: 10px;
+          margin-right: 20px;
+          align-items: center;
+        "
+      >
+        <div class="left" style="color: white; font-weight: bold">Home</div>
+        <div class="middle">
+          <input
+            class="searchbox"
+            placeholder="Search"
+            style="
+              width: 400px;
+              padding: 7px;
+              border-radius: 30px;
+              border: none;
+              font-family: Arial, Helvetica, sans-serif;
+              padding-left: 20px;
+            "
+          />
+        </div>
+        <div class="right">
+          <button
+            class="download"
+            style="
+              border-radius: 3px;
+              color: white;
+              background-color: #7354ad;
+              border-color: white;
+              border: solid;
+              border-width: 1px;
+              font-family: Arial, Helvetica, sans-serif;
+              padding: 9px;
+              padding-left: 12px;
+              padding-right: 12px;
+            "
+          >
+            Download
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flexbox"
+      style="
+        display: flex;
+        flex-direction: row;
+        height: 50px;
+        margin-top: 100px;
+        justify-content: center;
+      "
+    >
+      <div
+        class="red"
+        style="
+          background-color: lightcoral;
+          width: 100px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        "
+      >
+        <div
+          class="item1"
+          style="background-color: black; color: white; align-items: center"
+        >
+          item1
+        </div>
+      </div>
+      <div
+        class="blue"
+        style="background-color: lightblue; display: flex; width: 200px"
+      ></div>
+    </div>
+
+    <div
+      class="flexboxb"
+      style="
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 100px;
+        height: 100px;
+      "
+    >
+      <div
+        class="redb"
+        style="background-color: lightcoral; width: 100px"
+      ></div>
+      <div
+        class="blueb"
+        style="background-color: lightblue; width: 200px; display: flex"
+      >
+        <div
+          class="row1"
+        >
+          row1
+        </div>
+        <div
+          class="row2"
+          style="align-items: center; justify-content:space-between;display: flex;flex-direction: row;
+          "
+        >
+          <div class="row2a" style="background-color: black; color: white">
+            row2
+          </div>
+          <div class="row2a" style="background-color: black; color: white;">
+            row2
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

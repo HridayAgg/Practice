@@ -1,0 +1,28 @@
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+.user{
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.id{
+    font-weight: normal;
+    color: grey;
+}
+.user-tag{
+    color: rgb(0, 166, 255);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.tweet{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    line-height: 15px;
+}
+.user-thanks{
+    margin-top: 10px;
+    margin-left: 100px;
+}

@@ -1,0 +1,17 @@
+.container{
+    display: grid;
+    row-gap: 10px;
+}
+.clear{
+    margin-top: 10px;
+}
+/* button{
+    background-color: black;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button:hover{
+    scale: 1.1;
+    transition: 0.3s;
+
+} */
